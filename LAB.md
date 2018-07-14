@@ -35,7 +35,7 @@ That function delegates to a dictionary or `Map` by method.
 
 ### Not Found (404)
 
-Implement a module for returning not found expections that exports a `(req, res) => { /*...*/ }` function.
+Implement a module for returning not found expectations that exports a `(req, res) => { /*...*/ }` function.
 
 It should return 404 plus any custom page you want to show.
 
